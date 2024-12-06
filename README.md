@@ -14,7 +14,7 @@ Originally created by <a href="http://el-ement.com/blog/">Saharan</a> for action
 
 ### Home ###
 
-- [oimo.js](piotrmi.github.io/Oimo.js/) (in progress)
+- [oimo.js](http://piotrmi.github.io/Oimo.js/) (in progress)
 
 ### Docs ###
 
