@@ -15,7 +15,7 @@ function demo() {
 
     // basic geometry body
 
-    var i = 200, d, h, w, o;
+    var i = 5, d, h, w, o;
     
     while( i-- ) {
 
